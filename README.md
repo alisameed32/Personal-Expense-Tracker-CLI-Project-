@@ -62,7 +62,9 @@ Data Security: User credentials are securely stored in a file (e.g., hashed in J
 2. View all expenses
 3. View summary report
 4. Exit
+
 =================================
+
 Enter your choice:
 
 For each choice, the respective function (e.g., add_expense(), view_expenses()) will be called.
