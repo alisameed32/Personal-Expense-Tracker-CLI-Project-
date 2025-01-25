@@ -1,0 +1,14 @@
+[
+    {
+        "date": "2025-01-26",
+        "category": "Food",
+        "amount": 20.0,
+        "description": "lunch"
+    },
+    {
+        "date": "2025-01-26",
+        "category": "Travel",
+        "amount": 30.0,
+        "description": "collage"
+    }
+]
